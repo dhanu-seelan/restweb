@@ -733,10 +733,11 @@ footer {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-08 175922.png>)
-![alt text](<Screenshot 2025-10-08 175941.png>)
-![alt text](<Screenshot 2025-10-08 175956.png>)
-![alt text](<Screenshot 2025-10-08 180011.png>)
+<img width="1899" height="970" alt="1" src="https://github.com/user-attachments/assets/c3dd7658-ce78-40de-bd60-b2185b0e4c7d" />
+<img width="1919" height="918" alt="3" src="https://github.com/user-attachments/assets/5a7e561c-5565-4de1-a7f6-b9ce4e9ea785" />
+
+<img width="1919" height="913" alt="4" src="https://github.com/user-attachments/assets/42f3bd5f-d3bf-4be9-beb6-7070ec54aac5" />
+
 
 
 ## RESULT:
